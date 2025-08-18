@@ -20,8 +20,8 @@ colab - development tools for working with graphics processing
 
  ◎ 주요 라이브러리 
  
- tensorflow - deep learnning lib 
+ tensorflow - deep learnning lib  
  sklearn - preprocessing lib 
- pandas - data analize and controll lib 
+ pandas - data analize and controll lib  
 
 ▦▦▦ 포트폴리오 since 2025-08-18  
