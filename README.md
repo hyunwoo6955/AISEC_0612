@@ -14,14 +14,14 @@ lotto_AI : 학습돈 모델의 사용자 서비스 구현을 위한 백앤드 �
 
 ◎ 개발툴 
 
-pycharm - flask middle server launch and model user UI integrate 
-jupter - local remote share learnning 
-colab - development tools for working with graphics processing 
+pycharm - flask middle server launch and model user UI integrate  
+jupter - local remote share learnning  
+colab - development tools for working with graphics processing  
 
  ◎ 주요 라이브러리 
  
- tensorflow - deep learnning lib  
- sklearn - preprocessing lib 
- pandas - data analize and controll lib  
+ tensorflow - deep learnning lib   
+ sklearn - preprocessing lib  
+ pandas - data analize and controll lib   
 
 ▦▦▦ 포트폴리오 since 2025-08-18  
